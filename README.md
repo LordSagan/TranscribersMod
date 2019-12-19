@@ -1,6 +1,6 @@
 # Transcriber's Mod
 ## So, what is this thing?
-  This project is designed to enchance to multiplayer experience of Minecraft servers, by adding new items, blocks and game mechanics. And of course, removing some.
+  This project is designed to enchance the multiplayer experience of Minecraft server, by adding new items, blocks and game mechanics. And of course, removing some.
   
 ## What do you think adding:
   ### Game Mechanics
@@ -17,9 +17,9 @@
     
     2- Factions
       * You will be able to rule a country. Name them, set alliances or go blood tyrant!
-      * A real-time map will show you and other factions, with enhanced border system, so you will now your
+      * A real-time map will show you and other factions, with enhanced border system, so you will know your
          countries border.
-      * Set your flag, and wave it with proud!
+      * Set your flag and wave it with proud!
       
     3- Fighting
       * New factions, new peace and new war. This will allow you to build new weapons and and even new war machines!
@@ -28,7 +28,7 @@
     4- Building
       * So, you like building! or you don't. Doesn't matter, the building system will be easier and automatic!
       * Don't like building? Go and grab pre-builded homes, choose one and sprinkle around.
-      * Like building? Try building testing area, where you can create masterpieces, copy and paste it to your city
+      * Like building? Try build testing area, where you can create masterpieces, copy and paste it to your city
          or sell the blueprint of it!
       * You can also use auto-fill commands, so it will take a few clicks to finish your roads and buidlings.
   
@@ -47,17 +47,17 @@
     1- Decorative Blocks
       * Pretty blocks for pretty cities
       * Passive buff blocks, like asphalt block that makes you go faster.
-      * And interactive banner, so you can design decals for you glorious empire!
+      * And interactive banner, so you can design decals for your glorious empire!
       
     2- Automaters
-      * So, you don't want to struggle the whole gameplat with money-making, well you could do if you want, but you
+      * So, you don't want to struggle the whole gameplay with money-making, well you could do if you want, but you
         can use automaters to make valuable items for you. It is less slower than making with your hands though.
         
       
 Well, that's not all of it! I will update and remove the mod plan time to time.
 
   ## Whoa, that's cool! So when can I play?
-  Not for now, we will mess around until summer for now. It will need time to program and design all things, so every help counts!
+  Not for now, we will mess around until summer. It will need time to program and design all things, so every help counts!
     
   Always feel free to help us, even if you're not from r/TranscribersOfReddit.
     
