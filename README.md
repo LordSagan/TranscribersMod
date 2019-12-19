@@ -1,4 +1,4 @@
-# TranscribersMod
+# Transcriber's Mod
 ## So, what is this thing?
   This project is designed to enchance to multiplayer experience of Minecraft servers, by adding new items, blocks and game mechanics. And of course, removing some.
   
